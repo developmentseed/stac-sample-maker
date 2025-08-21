@@ -63,9 +63,6 @@ jobs:
     - name: Set up Python
       run: uv python install 3.11
 
-    - name: Install package
-      run: uv pip install -e .
-
     - name: Test CLI commands
       run: |
         uv run stac-sample-maker --help
