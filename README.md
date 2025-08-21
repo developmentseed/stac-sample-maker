@@ -1,7 +1,7 @@
 # STAC Sample Maker
 
-[![Tests](https://github.com/developmentseed/stac-sample-maker/workflows/Tests/badge.svg)](https://github.com/developmentseed/stac-sample-maker/actions)
-[![PyPI version](https://badge.fury.io/py/stac-sample-maker.svg)](https://badge.fury.io/py/stac-sample-maker)
+[![CI](https://github.com/developmentseed/stac-sample-maker/workflows/CI/badge.svg)](https://github.com/developmentseed/stac-sample-maker/actions)
+[![PyPI version](https://badge.fury.io/py/stac-sample-maker.svg)](https://pypi.org/project/stac-sample-maker/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

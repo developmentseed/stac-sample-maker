@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "stac-sample-maker"
-version = "0.0.2"
+version = "0.0.3"
 description = "Generate synthetic STAC (SpatioTemporal Asset Catalog) items with realistic metadata"
 readme = "README.md"
 license = { text = "MIT" }
